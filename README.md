@@ -1,5 +1,5 @@
 Responsive Food Ordering Website
-This is a responsive food ordering website built using HTML, CSS, and JavaScript. The website allows users to browse a food menu, select items, and place orders in a seamless and intuitive way. It’s designed to adapt to different screen sizes, ensuring an optimal user experience across desktops, tablets, and mobile devices.
+This is a responsive food ordering website built using HTML, CSS. The website allows users to browse a food menu, select items, and place orders in a seamless and intuitive way. It’s designed to adapt to different screen sizes, ensuring an optimal user experience across desktops, tablets, and mobile devices.
 
 
 Live Link: https://bit.ly/47Bupfl
